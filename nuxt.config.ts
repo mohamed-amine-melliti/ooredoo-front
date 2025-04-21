@@ -146,7 +146,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    "/": { redirect: "/examples/dashboard" },
+    "/": { redirect: "/welcome" },
     "/getting-started": { redirect: "/getting-started/introduction" },
     "/components": { redirect: "/components/accordion" },
     "/examples": { redirect: "/examples/cards" },

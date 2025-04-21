@@ -1,5 +1,5 @@
-export const SITE_NAME = "UI Thing";
-export const SITE_TITLE = "UI Thing | TailwindCSS Component Library for Nuxt";
+export const SITE_NAME = "Ooredoo Dashboard";
+export const SITE_TITLE = "Ooredoo Dashboard";
 export const SITE_DESCRIPTION =
   "UI Thing is a flexible and modern component library for Nuxt, offering reusable UI components styled with TailwindCSS and inspired by shadcn/ui. Simplify your development process with easy-to-integrate components and a powerful CLI tool.";
 export const SITE_LANG = "en";

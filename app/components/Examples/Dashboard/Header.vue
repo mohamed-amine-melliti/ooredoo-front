@@ -3,13 +3,13 @@
     <div class="flex h-16 items-center px-4">
       <UiButton variant="outline" class="w-[200px] justify-between">
         <UiAvatar class="mr-2 h-5 w-5" src="https://avatar.vercel.sh/mary" />
-        Mary Davis
+        Majdi Melliti
         <Icon name="lucide:chevrons-up-down" class="ml-auto h-4 w-4 shrink-0 opacity-50" />
       </UiButton>
 
       <nav class="mx-6 flex items-center space-x-4 lg:space-x-6">
         <NuxtLink to="#" class="text-sm font-medium transition-colors hover:text-primary"
-          >Overview</NuxtLink
+          >Dashboard</NuxtLink
         >
         <NuxtLink
           to="#"
