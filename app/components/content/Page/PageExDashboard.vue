@@ -63,7 +63,7 @@
                 </UiCard>
               </div> -->
             </UiTabsContent>
-            <UiTabsContent value="Utilisateurs" class="space-y-4">
+            <UiTabsContent value="utilisateurs" class="space-y-4">
               <ExamplesCardTeamMembers></ExamplesCardTeamMembers>
             </UiTabsContent>
           </UiTabs>

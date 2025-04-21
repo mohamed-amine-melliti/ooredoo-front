@@ -1,7 +1,7 @@
 <template>
-  <UiCard description="Invite your team members to collaborate.">
+  <UiCard description="">
     <template #title>
-      <UiCardTitle class="text-xl"> Team Members </UiCardTitle>
+      <UiCardTitle class="text-xl"> Utilisateurs </UiCardTitle>
     </template>
     <template #content>
       <UiCardContent class="grid gap-6">
@@ -9,8 +9,8 @@
           <div class="flex items-center space-x-4">
             <UiAvatar src="https://avatar.vercel.sh/mary" />
             <div class="text-sm">
-              <p class="font-medium leading-none">Mary Davis</p>
-              <p class="text-muted-foreground">m@example.com</p>
+              <p class="font-medium leading-none">Majdi Melliti</p>
+              <p class="text-muted-foreground">majdi.melliti@esprit.tn</p>
             </div>
           </div>
           <UiPopover>
@@ -39,8 +39,8 @@
           <div class="flex items-center space-x-4">
             <UiAvatar src="https://avatar.vercel.sh/jackson" />
             <div class="text-sm">
-              <p class="font-medium leading-none">Jackson Lee</p>
-              <p class="text-muted-foreground">j@example.com</p>
+              <p class="font-medium leading-none">Mohamed Amine Melliti</p>
+              <p class="text-muted-foreground">mohamedamine.melliti@esprit.tn</p>
             </div>
           </div>
           <UiPopover>
