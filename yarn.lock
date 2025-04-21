@@ -10440,7 +10440,7 @@ nuxt-component-meta@^0.10.0:
     ufo "^1.5.4"
     vue-component-meta "^2.2.0"
 
-nuxt-og-image@^5.1.1:
+nuxt-og-image@^5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/nuxt-og-image/-/nuxt-og-image-5.1.2.tgz#ecbbe91b3577198fa0abdfaf9aad5cd51a14ee73"
   integrity sha512-6cmQJdC33U8Jdi80ib43s4TzT6ADccs2zK9frvPi93Rka0KYsv3meGGzS5m/1/5T1oMv1EIXhkFwTrDDxYB/GQ==
