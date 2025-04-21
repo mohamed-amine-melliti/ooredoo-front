@@ -14,17 +14,17 @@
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          >Customers</NuxtLink
+          > </NuxtLink
         >
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          >Products</NuxtLink
+          > </NuxtLink
         >
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          >Settings</NuxtLink
+          > </NuxtLink
         >
       </nav>
 

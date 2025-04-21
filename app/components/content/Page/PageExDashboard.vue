@@ -63,6 +63,9 @@
                 </UiCard>
               </div> -->
             </UiTabsContent>
+            <UiTabsContent value="Utilisateurs" class="space-y-4">
+              <ExamplesCardTeamMembers></ExamplesCardTeamMembers>
+            </UiTabsContent>
           </UiTabs>
         </div>
       </div>
@@ -74,7 +77,7 @@
   import { _colors } from "#tailwind-config/theme";
   import { addDays, format } from "date-fns";
   import DatableOoredoo from '../../ooredoo/DataTableOoredoo.vue'
-
+  import ExamplesCardTeamMembers from '../../Examples/Card/TeamMembers.vue'
   definePageMeta({ layout: "examples" });
   useSeoMeta({ title: "Dashboard" });
 
