@@ -14,18 +14,15 @@
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          > </NuxtLink
-        >
+          />
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          > </NuxtLink
-        >
+          />
         <NuxtLink
           to="#"
           class="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
-          > </NuxtLink
-        >
+          />
       </nav>
 
       <div class="ml-auto flex items-center space-x-4">

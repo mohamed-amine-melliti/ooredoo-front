@@ -64,7 +64,7 @@
               </div> -->
             </UiTabsContent>
             <UiTabsContent value="utilisateurs" class="space-y-4">
-              <ExamplesCardTeamMembers></ExamplesCardTeamMembers>
+              <ExamplesCardTeamMembers/>
             </UiTabsContent>
           </UiTabs>
         </div>

@@ -44,6 +44,7 @@ export default defineNuxtConfig({
     "@nuxt/fonts",
     "@vite-pwa/nuxt",
     "nuxt-og-image",
+    "@pinia/nuxt",
     (_, nuxt) => {
       nuxt.hook("components:dirs", (dirs) => {
         dirs.unshift({
